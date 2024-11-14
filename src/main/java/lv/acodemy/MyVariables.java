@@ -18,7 +18,7 @@ public class MyVariables {
 
             System.out.println(age);
             System.out.println(currentYear);
-            System.out.println(inventoryItemCount);;
+            System.out.println(inventoryItemCount);
 
             // double (fractional numbers)
             double temperature = 36.6;
@@ -26,7 +26,8 @@ public class MyVariables {
             double distance = 17500.95;
 
             System.out.println(temperature);
-            System.out.println(price);;
+            System.out.println(price);
+            System.out.println(distance;
 
             // char (symbols)
             char grade = 'A';
