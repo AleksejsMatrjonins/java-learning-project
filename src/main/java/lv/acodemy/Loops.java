@@ -15,7 +15,7 @@ public class Loops {
         System.out.println("Goes next!");
 
         int i = 0;
-        while(i < shoppingList.length) {
+        while( i < shoppingList.length) {
             System.out.println("Current producy is" + shoppingList[i]);
         }
 
